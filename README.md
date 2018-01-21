@@ -1,10 +1,10 @@
 # RukhlinVrep2nd
 ## FirstName
 ### My Page
-_My Name
+_My Name_
 ***
-**My Name
-__My Name
+**My Name**
+__My Name__
 ~~Your Name~~
 * a
 * b
